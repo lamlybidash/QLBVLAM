@@ -38,7 +38,7 @@ namespace QLBV
         internal DataGridViewRow rowThuoc; // dùng để xóa thuốc
 
 
-
+// changed
 
 
         public void setProperties(string idBN, string tenBN, string ngaySinh, string gioiTinh, string country, string ngayTaoHoaDon, string ngayLapHDddd)
